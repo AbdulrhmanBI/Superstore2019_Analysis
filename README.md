@@ -1,5 +1,5 @@
 
-# Sample Superstore 2019: Professional Data Analysis 2222
+# Sample Superstore 2019: Professional Data Analysis
 
 This project analyzes the Sample Superstore 2019 dataset with Python to understand sales, profitability, customers, products, shipping, and returns.
 

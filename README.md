@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# Sample Superstore 2019: Professional Data Analysis
+
+# Sample Superstore 2019: Professional Data Analysis 2222
 
 This project analyzes the Sample Superstore 2019 dataset with Python to understand sales, profitability, customers, products, shipping, and returns.
 
@@ -60,15 +61,15 @@ The main analysis figures are also saved as PNG files for use outside the notebo
 
 ## Key Results
 
-| KPI | Result |
-| --- | ---: |
-| Total Sales | 2,297,200.86 |
-| Total Profit | 286,397.02 |
-| Overall Profit Margin | 12.47% |
-| Unique Orders | 5,009 |
-| Unique Customers | 793 |
-| Unique Products | 1,862 |
-| Return Rate | 5.91% |
+| KPI                   |       Result |
+| --------------------- | -----------: |
+| Total Sales           | 2,297,200.86 |
+| Total Profit          |   286,397.02 |
+| Overall Profit Margin |       12.47% |
+| Unique Orders         |        5,009 |
+| Unique Customers      |          793 |
+| Unique Products       |        1,862 |
+| Return Rate           |        5.91% |
 
 The analysis found that Technology leads sales among categories, Consumer leads among customer segments, and West leads among regions. Discount and Profit Margin have a strong negative correlation of -0.864, while Quantity and Sales have a weak positive correlation of 0.201.
 
@@ -149,7 +150,8 @@ Sample-Superstore-Professional-Analytics/
 
 ## Notes
 
-The notebook contains the full analysis and detailed outputs. The README provides the business context, analytical workflow, key findings, and selected visualizations so the project can be understood before opening the notebook.
-=======
+# The notebook contains the full analysis and detailed outputs. The README provides the business context, analytical workflow, key findings, and selected visualizations so the project can be understood before opening the notebook.
+
 # Sample-Superstore-2019-Analysis-2
->>>>>>> 45bc8b42198c30c99674474f663375a0be83b1b9
+
+> > > > > > > 45bc8b42198c30c99674474f663375a0be83b1b9

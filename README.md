@@ -35,6 +35,7 @@ flowchart TD
     K --> L[Cleaned Data]
     K --> M[Visual Reports]
     K --> N[Analytical Report]
+```
 
 ### 1. Data Loading and Initial Inspection
 

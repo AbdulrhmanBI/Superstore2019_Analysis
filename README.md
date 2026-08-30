@@ -18,6 +18,27 @@ The analysis is built around six main business questions:
 
 ## Analytical Workflow
 
+## Analytical Workflow
+
+The project follows a structured analytical workflow from raw data to final business insights and exported outputs.
+
+```mermaid
+flowchart TD
+    A[Data Loading] --> B[Data Inspection]
+    B --> C[Data Cleaning]
+    C --> D[Data Validation]
+    D --> E[Feature Engineering]
+    E --> F[Exploratory Data Analysis]
+    F --> G[Statistical Analysis]
+    G --> H[Business Analysis]
+    H --> I[KPI Summary and Analytical Report]
+    I --> J[Memory Optimization]
+    J --> K[Export]
+
+    K --> L[Cleaned Data]
+    K --> M[Visual Reports]
+    K --> N[Analytical Report]
+
 ### 1. Data Loading and Initial Inspection
 
 The `Orders`, `People`, and `Returns` sheets are imported from the source Excel workbook. The notebook reviews the dataset structure, columns, data types, and sample records before any transformation.

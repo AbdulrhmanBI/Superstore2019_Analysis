@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Sample Superstore 2019: Professional Data Analysis 2222
 

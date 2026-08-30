@@ -18,8 +18,6 @@ The analysis is built around six main business questions:
 
 ## Analytical Workflow
 
-## Analytical Workflow
-
 The project follows a structured analytical workflow from raw data to final business insights and exported outputs.
 
 ```mermaid
@@ -34,7 +32,6 @@ flowchart TD
     H --> I[KPI Summary and Analytical Report]
     I --> J[Memory Optimization]
     J --> K[Export]
-
     K --> L[Cleaned Data]
     K --> M[Visual Reports]
     K --> N[Analytical Report]

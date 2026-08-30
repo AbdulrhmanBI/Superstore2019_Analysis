@@ -28,10 +28,10 @@ flowchart TD
     D --> E[Exploratory Data Analysis]
     E --> F[Statistical Analysis]
     F --> G[Business Insights]
-    G --> H[Optimization]
+    G --> H[Memory Optimization]
     H --> I[Reporting & Export]
 
-    I --> J[KPI Summary & Analytical Report]
+    I --> J[Analytical Report]
     I --> K[Cleaned Data]
     I --> L[Visual Reports]
 ```

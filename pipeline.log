@@ -1,0 +1,78 @@
+2026-08-30 11:56:59,197 | INFO | Current working directory: d:\Abdulrhman\DEPI\Python Workspace\projects
+2026-08-30 11:57:00,259 | INFO | Data imported successfully from Excel file: D:\Abdulrhman\DEPI\Datasets\Sample - Superstore 2019.xls
+2026-08-30 11:57:00,269 | INFO | Starting dataset inspection
+2026-08-30 11:57:00,347 | INFO | Starting dataset inspection
+2026-08-30 11:57:00,370 | INFO | Starting dataset inspection
+2026-08-30 11:57:00,395 | INFO | Starting raw data quality Assessment
+2026-08-30 11:57:00,549 | INFO | Raw data quality checks completed successfully
+2026-08-30 11:57:00,559 | INFO | Starting People raw data quality assessment
+2026-08-30 11:57:00,571 | INFO | People raw data quality assessment completed successfully
+2026-08-30 11:57:00,586 | INFO | Starting Returns raw data quality assessment
+2026-08-30 11:57:00,599 | INFO | Returns raw data quality assessment completed successfully
+2026-08-30 11:57:00,608 | INFO | Starting data type correction
+2026-08-30 11:57:00,615 | INFO | Data type correction completed successfully
+2026-08-30 11:57:00,667 | INFO | Starting missing values assessment
+2026-08-30 11:57:00,679 | INFO | Missing values found in 1 column(s)
+2026-08-30 11:57:00,751 | INFO | Remaining missing Postal Codes: 0
+2026-08-30 11:57:00,770 | INFO | Starting duplicate assessment
+2026-08-30 11:57:00,816 | INFO | Removed 504 duplicate rows
+2026-08-30 11:57:00,865 | INFO | Extra spaces fixed in Product Name
+2026-08-30 11:57:00,891 | INFO | Whitespace issues found in Product Name: 0
+2026-08-30 11:57:00,938 | INFO | Date features created successfully
+2026-08-30 11:57:00,942 | INFO | Date features created successfully
+2026-08-30 11:57:00,976 | INFO | Starting exploratory data analysis
+2026-08-30 11:57:00,990 | INFO | Dataset overview completed successfully
+2026-08-30 11:57:00,998 | INFO | Starting descriptive statistics
+2026-08-30 11:57:10,924 | INFO | Generating final EDA summary
+2026-08-30 11:57:10,939 | INFO | Final EDA summary completed successfully
+2026-08-30 11:57:11,513 | INFO | Removing unnecessary columns for export
+2026-08-30 11:57:11,515 | INFO | Unnecessary columns removed successfully
+2026-08-30 11:57:11,527 | INFO | Optimizing categorical data types
+2026-08-30 11:57:11,539 | INFO | Categorical data types optimized successfully
+2026-08-30 11:57:11,549 | INFO | Optimizing numeric data types
+2026-08-30 11:57:11,553 | INFO | Numeric data types optimized successfully
+2026-08-30 11:57:11,595 | INFO | Generating KPI summary
+2026-08-30 11:57:11,603 | INFO | KPI summary generated successfully
+2026-08-30 11:57:11,613 | INFO | Generating analytical report
+2026-08-30 11:57:11,618 | INFO | Analytical report generated successfully
+2026-08-30 11:57:11,627 | INFO | Exporting cleaned datasets
+2026-08-30 11:57:15,743 | INFO | Cleaned datasets exported successfully
+2026-08-30 14:37:49,635 | INFO | Current working directory: d:\Abdulrhman\DEPI\Python Workspace\projects
+2026-08-30 14:37:51,020 | INFO | Data imported successfully from Excel file: D:\Abdulrhman\DEPI\Datasets\Sample - Superstore 2019.xls
+2026-08-30 14:37:51,031 | INFO | Starting dataset inspection
+2026-08-30 14:37:51,153 | INFO | Starting dataset inspection
+2026-08-30 14:37:51,179 | INFO | Starting dataset inspection
+2026-08-30 14:37:51,223 | INFO | Starting raw data quality Assessment
+2026-08-30 14:37:51,435 | INFO | Raw data quality checks completed successfully
+2026-08-30 14:37:51,448 | INFO | Starting People raw data quality assessment
+2026-08-30 14:37:51,465 | INFO | People raw data quality assessment completed successfully
+2026-08-30 14:37:51,484 | INFO | Starting Returns raw data quality assessment
+2026-08-30 14:37:51,498 | INFO | Returns raw data quality assessment completed successfully
+2026-08-30 14:37:51,510 | INFO | Starting data type correction
+2026-08-30 14:37:51,518 | INFO | Data type correction completed successfully
+2026-08-30 14:37:51,576 | INFO | Starting missing values assessment
+2026-08-30 14:37:51,589 | INFO | Missing values found in 1 column(s)
+2026-08-30 14:37:51,716 | INFO | Remaining missing Postal Codes: 0
+2026-08-30 14:37:51,781 | INFO | Starting duplicate assessment
+2026-08-30 14:37:51,863 | INFO | Removed 504 duplicate rows
+2026-08-30 14:37:51,972 | INFO | Extra spaces fixed in Product Name
+2026-08-30 14:37:52,013 | INFO | Whitespace issues found in Product Name: 0
+2026-08-30 14:37:52,086 | INFO | Date features created successfully
+2026-08-30 14:37:52,093 | INFO | Date features created successfully
+2026-08-30 14:37:52,136 | INFO | Starting exploratory data analysis
+2026-08-30 14:37:52,160 | INFO | Dataset overview completed successfully
+2026-08-30 14:37:52,174 | INFO | Starting descriptive statistics
+2026-08-30 14:38:06,185 | INFO | Generating final EDA summary
+2026-08-30 14:38:06,203 | INFO | Final EDA summary completed successfully
+2026-08-30 14:38:06,867 | INFO | Removing unnecessary columns for export
+2026-08-30 14:38:06,870 | INFO | Unnecessary columns removed successfully
+2026-08-30 14:38:06,884 | INFO | Optimizing categorical data types
+2026-08-30 14:38:06,901 | INFO | Categorical data types optimized successfully
+2026-08-30 14:38:06,924 | INFO | Optimizing numeric data types
+2026-08-30 14:38:06,930 | INFO | Numeric data types optimized successfully
+2026-08-30 14:38:07,004 | INFO | Generating KPI summary
+2026-08-30 14:38:07,014 | INFO | KPI summary generated successfully
+2026-08-30 14:38:07,028 | INFO | Generating analytical report
+2026-08-30 14:38:07,038 | INFO | Analytical report generated successfully
+2026-08-30 14:38:07,051 | INFO | Exporting cleaned datasets
+2026-08-30 14:38:12,190 | INFO | Cleaned datasets exported successfully

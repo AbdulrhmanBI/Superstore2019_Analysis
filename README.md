@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Superstore 2019: Professional Data Analysis
 
 This project analyzes the Sample Superstore 2019 dataset with Python to understand sales, profitability, customers, products, shipping, and returns.
@@ -149,3 +150,6 @@ Sample-Superstore-Professional-Analytics/
 ## Notes
 
 The notebook contains the full analysis and detailed outputs. The README provides the business context, analytical workflow, key findings, and selected visualizations so the project can be understood before opening the notebook.
+=======
+# Sample-Superstore-2019-Analysis-2
+>>>>>>> 45bc8b42198c30c99674474f663375a0be83b1b9

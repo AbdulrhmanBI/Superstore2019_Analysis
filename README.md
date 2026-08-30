@@ -110,34 +110,6 @@ The repository includes the main figures generated during the analysis.
 
 ![Sales and Profit by Return Status](reports/figures/18_4_11_3_sales_and_profit_by_return_status.png)
 
-## Project Structure
-
-```text
-Sample-Superstore-Professional-Analytics/
-|
-├── README.md
-├── requirements.txt
-├── .gitignore
-|
-├── notebooks/
-│   └── superstore_analysis.ipynb
-|
-├── data/
-│   ├── raw/
-│   │   └── Sample - Superstore 2019.xls
-│   └── processed/
-│       └── cleaned Sample - Superstore 2019.xlsx
-|
-├── reports/
-│   ├── figures/
-│   │   └── *.png
-│   └── pipeline.log
-|
-└── docs/
-    ├── project_requirements_checklist.xlsx
-    └── project_notes.md
-```
-
 ## Tools
 
 - Python
@@ -146,11 +118,3 @@ Sample-Superstore-Professional-Analytics/
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
-## Notes
-
-# The notebook contains the full analysis and detailed outputs. The README provides the business context, analytical workflow, key findings, and selected visualizations so the project can be understood before opening the notebook.
-
-# Sample-Superstore-2019-Analysis-2
-
-> > > > > > > 45bc8b42198c30c99674474f663375a0be83b1b9
